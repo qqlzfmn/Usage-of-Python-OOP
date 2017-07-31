@@ -1,5 +1,6 @@
 # Python面向对象简单用法
-这里是每个文件包括的内容的说明
+这里是每个文件包括的内容的说明  
+Python版本：2.7.13
 ## 一、面向对象基础及Python面向对象语法
 1.用Python定义类 —— defClass.py  
 2.定义类的属性 —— defProperties.py  
